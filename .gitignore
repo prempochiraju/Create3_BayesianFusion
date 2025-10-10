@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and results (keep folders, ignore contents)
+data/raw/*
+data/processed/*
+results/plots/*
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!results/plots/.gitkeep

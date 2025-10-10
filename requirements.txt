@@ -1,0 +1,4 @@
+irobot-edu-sdk
+pandas
+numpy
+matplotlib
